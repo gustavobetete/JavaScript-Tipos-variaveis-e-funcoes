@@ -10,4 +10,4 @@ console.log(numero == texto); // true
 console.log(numero === texto); // false 
 
 console.log(typeof numero); // number
-console.log(typeof texto); // string
+console.log(typeof texto); // string     
